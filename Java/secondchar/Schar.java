@@ -1,6 +1,5 @@
 package Java.secondchar;
 
-/* 
 public class Schar {
     public static void main(String[] args) {
         int [] [] arr = new int [2][3];
@@ -20,8 +19,8 @@ public class Schar {
         System.out.println("The sum of the numbers is: " + sum);
     }
 }
-*/
 
+/*
 public class Schar {
     public static void main(String[] args) {
         int [][] arr = {{1,2,3},{4,5,6},{7,8,9}};
@@ -35,3 +34,4 @@ public class Schar {
         }
     }
 }
+     */
